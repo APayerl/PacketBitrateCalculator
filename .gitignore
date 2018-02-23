@@ -1,6 +1,9 @@
 .gradle
 /build/
 
+LICENS
+README.md
+
 # Ignore Gradle GUI config
 gradle-app.setting
 
